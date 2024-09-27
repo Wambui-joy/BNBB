@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927139381884",
+    "project_id": "bnbb-c53ff",
+    "storage_bucket": "bnbb-c53ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927139381884:android:7e4c4947ec4b6b71093ff9",
+        "android_client_info": {
+          "package_name": "com.example.bnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Hyek-C1MB0P8JewImynIOOgyCVaamh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
